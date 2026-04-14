@@ -225,6 +225,52 @@ RAZORPAY_KEY_SECRET=your_secret
 
 ---
 
+
+
+---
+
+## 📱 Mobile Friendly & Installable (PWA)
+
+This application is fully responsive and can be installed as a mobile app on both Android and iOS devices.
+
+### 📐 Responsive Design
+- Works on mobile, tablet, and desktop
+- Optimized layouts using responsive design techniques
+- Smooth user experience across all screen sizes
+
+---
+
+## 📲 Install on Android (Chrome)
+
+1. Open the website in **Google Chrome**
+2. Tap the **3-dot menu (⋮)**
+3. Tap **"Add to Home Screen"**
+4. Confirm installation
+
+✅ The app will be installed and open like a native app.
+
+---
+
+## 🍎 Install on iOS (Safari)
+
+1. Open the website in **Safari**
+2. Tap the **Share icon (⬆️)**
+3. Scroll and tap **"Add to Home Screen"**
+4. Tap **Add**
+
+✅ The app will appear on your home screen like a native app.
+
+---
+
+## ⚙️ PWA Features
+
+- Installable on mobile devices
+- Runs in standalone mode (app-like UI)
+- Faster loading using service workers
+- Works best when deployed with HTTPS
+
+---
+
 ## 📌 Notes
 
 * Do not commit `.env`, `venv`, or sensitive data
