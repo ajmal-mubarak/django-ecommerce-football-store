@@ -106,7 +106,15 @@ pip install -r requirements.txt
 
 ---
 
-### 4. Apply migrations
+### 4. go to folder football_store
+
+```bash
+cd football_store
+```
+
+---
+
+### 5. Apply migrations
 
 ```bash
 python manage.py migrate
@@ -114,7 +122,7 @@ python manage.py migrate
 
 ---
 
-### 5. Create Admin (Superuser)
+### 6. Create Admin (Superuser)
 
 ```bash
 python manage.py createsuperuser
@@ -122,7 +130,7 @@ python manage.py createsuperuser
 
 ---
 
-### 6. Run the server
+### 7. Run the server
 
 ```bash
 python manage.py runserver
