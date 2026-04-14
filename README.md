@@ -92,8 +92,44 @@ RAZORPAY_KEY_SECRET=your_secret
 
 ## 📸 Screenshots
 
+### 🏠 Home Page
+![Home](screenshots/home1.jpg)
 
+### 🏠 Home Page (Variant)
+![Home](screenshots/home2.jpg)
 
+### 🏠 Home Page (More)
+![Home](screenshots/home3.jpg)
+
+### 🛍️ Products Listing
+![Products](screenshots/products.jpg)
+
+### 📦 Product Detail
+![Product Detail](screenshots/products_detail.jpg)
+
+### 🛒 Cart Page
+![Cart](screenshots/cart-page.jpg)
+
+### 🎟️ Coupons Page
+![Coupons](screenshots/coupons-page.jpg)
+
+### ❤️ Wishlist
+![Wishlist](screenshots/wishlist-page.jpg)
+
+### 🔐 Login Page
+![Login](screenshots/login-page.jpg)
+
+### 👤 Profile Page
+![Profile](screenshots/profile-page.jpg)
+
+### 📦 My Orders
+![Orders](screenshots/myorders-page.jpg)
+
+### ⚙️ Admin Panel (Custom)
+![Admin](screenshots/custom-admin.jpg)
+
+### 🔻 Footer Section
+![Footer](screenshots/footer.jpg)
 ---
 
 ## 📌 Notes
