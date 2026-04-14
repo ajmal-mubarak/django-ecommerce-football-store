@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Django Project
+# 🛒⚽ Django E-Commerce Football Store
 
 A **production-ready eCommerce web application** built with Django, featuring secure authentication, cart & wishlist system, order management, and Razorpay payment integration.
 
